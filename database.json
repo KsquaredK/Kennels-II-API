@@ -6,6 +6,41 @@
             "breed": "Poodle",
             "customerId": 1,
             "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Piehole",
+            "breed": "Maltese",
+            "customerId": 4,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Edward",
+            "breed": "Sheepdog",
+            "customerId": 3,
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Shark",
+            "breed": "Golden Retreiver",
+            "customerId": 2,
+            "locationId": 1
+        },
+        {
+            "id": 5,
+            "name": "Vinyl",
+            "breed": "Border Collie",
+            "customerId": 5,
+            "locationId": 2
+        },
+        {
+            "id": 6,
+            "name": "Schmertz",
+            "breed": "Basset Hound",
+            "customerId": 1,
+            "locationId": 2
         }
     ],
     "customers": [
@@ -13,9 +48,44 @@
             "id": 1,
             "name": "Hannah Hall",
             "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Edward Everett Horton",
+            "address": "7002 Chinquapin Ct"
+        },
+        {
+            "id": 3,
+            "name": "John Kenneth Galbraith",
+            "address": "7002 Cherry Ct"
+        },
+        {
+            "id": 4,
+            "name": "Hughie Louis Dewey",
+            "address": "7002 Chines Elm Ct"
+        },
+        {
+            "id": 5,
+            "name": "John Wesley Riles",
+            "address": "7002 Coffee Ct"
+        },
+        {
+            "id": 6,
+            "name": "Hannah Hall",
+            "address": "7002 Cardamom Ct"
+        },
+        {
+            "id": 7,
+            "name": "Hopalong Cassidy",
+            "address": "7002 Coppertree Ct"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "locationID": 1
+        }
+    ],
     "locations": [
         {
             "id": 1,
@@ -26,6 +96,16 @@
             "id": 2,
             "name": "Nashville South",
             "address": "209 Emory Drive"
+        },
+        {
+            "id": 3,
+            "name": "Nashville East",
+            "address": "8422 Donelson Pike"
+        },
+        {
+            "id": 4,
+            "name": "Nashville West",
+            "address": "209 White Bridge Pike"
         }
     ]
 }
