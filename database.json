@@ -83,7 +83,7 @@
     "employees": [
         {
             "id": 1,
-            "locationID": 1
+            "locationId": 1
         }
     ],
     "locations": [
